@@ -1,0 +1,7 @@
+Bundle-Name: Sample Integration Integration Tests
+Bundle-SymbolicName: com.sample.integration.integration.test
+Bundle-Version: 1.0.0
+Import-Package: *
+
+-privatepackage: com.sample.integration.test.*,\
+	com.liferay.insistencelayer.*
